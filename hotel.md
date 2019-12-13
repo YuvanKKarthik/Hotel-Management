@@ -1,0 +1,2 @@
+Hotel-Management
+    The application is for online food delivery. Here the user can both register and login his account. The page will not be navigate if the user is not registered his account. If account registered the program navigates to the next page were the user can find the hotels available and if a hotel is chosen then the dishes available in the hotel will be displayed. The user can order his dish and have to enter the quantity. The total amount for the order will be displayed and in the form of a bill.  
